@@ -1,9 +1,10 @@
-# AutoCaption-Ts_Bot
+# Autocaption-NexonHex-Bot
 
 
 An open source telegram Auto Caption bot
 
-- For demo you can check the <b>[AutoCaption_Ts_Bot](https://telegram.me/AutoCaption_Ts_Bot)</b>
+- For demo you can check the <b>[Autocaption-NexonHex-Bot
+](https://telegram.me/Autocaption_Nexon_Bot)</b>
 
 # About Bot
 
@@ -52,15 +53,15 @@ I created this bot because it might be helpful for Channel Admins/Owners, so the
 
 I am not a progrommer though it is written in my own hands 
 If you have any suggestions to update the bot for better user friendly expirience you can contact me 
-Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
+Through [@Fabio_TG](https://telegram.me/Fabio_TG) or you can contact me directly.
 
 ## My Channel
 
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
+<b>[@NexonHex](https://telegram.me/Nexonhex)</b>
 
 
 ### Thanks to
 
 <i>❤️ Thanks to everyone in this journey</i> 
 
-<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS) for helping me in all the ways</i> 
+<i>🥰 Thanks to [Shon](https://telegram.me/its_me_shon) for helping me in all the ways</i> 
